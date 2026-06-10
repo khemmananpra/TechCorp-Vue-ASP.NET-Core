@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:techcorp_vue.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\models\\techcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\models\\techcorpcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\controllers\\techcorpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\controllers\\techcorpcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.client\\src\\service\\techcorp.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|solutionrelative:techcorp_vue.client\\src\\service\\techcorp.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\models\\employeemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\models\\employeemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.client\\src\\service\\file.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|solutionrelative:techcorp_vue.client\\src\\service\\file.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\models\\signaturemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\models\\signaturemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\models\\filemodelmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\models\\filemodelmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC67BF1A-6003-4C37-8DA1-98A53588D48A}|TechCorp_Vue.Server\\TechCorp_Vue.Server.csproj|solutionrelative:techcorp_vue.server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.client\\src\\components\\edit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|solutionrelative:techcorp_vue.client\\src\\components\\edit.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.client\\src\\components\\create.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|solutionrelative:techcorp_vue.client\\src\\components\\create.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|d:\\intern_agilerap\\vue_intern\\techcorp\\techcorp_vue\\techcorp_vue.client\\src\\components\\template\\employeeform.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95E4FD-9DD5-C8ED-39AD-119B8914FF07}|techcorp_vue.client\\techcorp_vue.client.esproj|solutionrelative:techcorp_vue.client\\src\\components\\template\\employeeform.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\node_modules\\vue-router\\dist\\vue-router.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:techcorp_vue.client\\node_modules\\vue-router\\dist\\vue-router.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\appsettings.Development.json",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\appsettings.Development.json",
+              "RelativeToolTip": "TechCorp_Vue.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T10:05:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\appsettings.json",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\appsettings.json",
+              "RelativeToolTip": "TechCorp_Vue.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-06T10:05:41.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilemodelMetadata.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\FilemodelMetadata.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Models\\FilemodelMetadata.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\FilemodelMetadata.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Models\\FilemodelMetadata.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:27:16.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignatureMetadata.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\SignatureMetadata.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Models\\SignatureMetadata.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\SignatureMetadata.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Models\\SignatureMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:27:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.vue",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\components\\Edit.vue",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\src\\components\\Edit.vue",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\components\\Edit.vue",
+              "RelativeToolTip": "techcorp_vue.client\\src\\components\\Edit.vue",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwG8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-09-04T10:32:24.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "file.service.ts",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\service\\file.service.ts",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\src\\service\\file.service.ts",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\service\\file.service.ts",
+              "RelativeToolTip": "techcorp_vue.client\\src\\service\\file.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-04T04:48:50.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TechCorp.service.ts",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\service\\TechCorp.service.ts",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\src\\service\\TechCorp.service.ts",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\service\\TechCorp.service.ts",
+              "RelativeToolTip": "techcorp_vue.client\\src\\service\\TechCorp.service.ts",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-04T04:48:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.vue",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\components\\Create.vue",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\src\\components\\Create.vue",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\components\\Create.vue",
+              "RelativeToolTip": "techcorp_vue.client\\src\\components\\Create.vue",
+              "ViewState": "AgIAAEUAAAAAAAAAAAASwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-09-04T03:33:05.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employeeform.vue",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\components\\template\\Employeeform.vue",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\src\\components\\template\\Employeeform.vue",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\src\\components\\template\\Employeeform.vue",
+              "RelativeToolTip": "techcorp_vue.client\\src\\components\\template\\Employeeform.vue",
+              "ViewState": "AgIAAIQAAAAAAAAAAAASwIYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-09-04T03:17:12.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechCorpContext.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\TechCorpContext.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Models\\TechCorpContext.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\TechCorpContext.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Models\\TechCorpContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:02:02.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Program.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Program.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAWwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:31:55.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Models\\Employee.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\Employee.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Models\\Employee.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T08:08:16.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vue-router.mjs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\node_modules\\vue-router\\dist\\vue-router.mjs",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\node_modules\\vue-router\\dist\\vue-router.mjs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\node_modules\\vue-router\\dist\\vue-router.mjs",
+              "RelativeToolTip": "techcorp_vue.client\\node_modules\\vue-router\\dist\\vue-router.mjs",
+              "ViewState": "AgIAAPcBAAAAAAAAAADwvz8CAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-02T04:50:00.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "runtime-core.esm-bundler.js",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "RelativeDocumentMoniker": "techcorp_vue.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\techcorp_vue.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "RelativeToolTip": "techcorp_vue.client\\node_modules\\@vue\\runtime-core\\dist\\runtime-core.esm-bundler.js",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAowAsBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-01T08:57:06.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeMetadata.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\EmployeeMetadata.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Models\\EmployeeMetadata.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Models\\EmployeeMetadata.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Models\\EmployeeMetadata.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:37:05.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TechCorpController.cs",
+              "DocumentMoniker": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Controllers\\TechCorpController.cs",
+              "RelativeDocumentMoniker": "TechCorp_Vue.Server\\Controllers\\TechCorpController.cs",
+              "ToolTip": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\Controllers\\TechCorpController.cs",
+              "RelativeToolTip": "TechCorp_Vue.Server\\Controllers\\TechCorpController.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAhwK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:30:18.373Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

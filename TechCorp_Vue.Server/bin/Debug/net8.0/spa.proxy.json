@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:9282",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\INTERN_AgileRap\\Vue_Intern\\TechCorp\\TechCorp_Vue\\TechCorp_Vue.Server\\..\\techcorp_vue.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

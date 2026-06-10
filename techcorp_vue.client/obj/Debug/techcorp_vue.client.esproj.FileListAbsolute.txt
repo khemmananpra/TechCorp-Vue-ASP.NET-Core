@@ -1,0 +1,2 @@
+D:\Vue_Intern\Techcorp_Vue\techcorp_vue.client\obj\Debug\techcorp_vue.client.esproj.CoreCompileInputs.cache
+D:\INTERN_AgileRap\Vue_Intern\TechCorp\TechCorp_Vue\techcorp_vue.client\obj\Debug\techcorp_vue.client.esproj.CoreCompileInputs.cache

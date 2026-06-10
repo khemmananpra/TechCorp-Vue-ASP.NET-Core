@@ -1,0 +1,6 @@
+@TechCorp_Vue.Server_HostAddress = http://localhost:5103
+
+GET {{TechCorp_Vue.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
